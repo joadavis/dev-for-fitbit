@@ -1,0 +1,29 @@
+<svg class="background">
+  <!--image id="lilBatBack" href="LOGO-LILBAT-COLOR.png" x="5%" y="0%" width="90%" height="90%"/>
+  <!-- circle id="white-circle" cx="50%" cy="50%" r="50%" fill="#FFFFFF" />
+  <! circle id="blue-circle" cx="51%" cy="49%" r="33%" fill="#1A1A52" /-->
+  <!--image id="lilBatTicks" href="lil-Bat-watch-ticks.png" x="0%" y="0%"/-->
+  <image id="lilBatTicks" href="lil-Bat-watch-ticks2.png" x="0%" y="0%"/>
+ 
+  <g id="mins" pointer-events="visible" transform="translate(50%,45%)">
+    <image id="minarm" href="torcharm-highlight2.png" x="$-15" y="-150" width="30" height="100"/>
+  </g>
+  <g id="hours" pointer-events="visible" transform="translate(50%,45%)">
+    <rect x="$-6" y="-123" width="12" height="25" fill="#221122" />
+    <rect x="$-9" y="-127" width="6"  height="29" fill="#29aae6"/>
+  </g>
+  <g id="secs" pointer-events="visible" transform="translate(50%,45%)">
+    <rect x="$-2" y="-136" width="4" height="44" fill="#ff0000" />
+  </g>
+  
+  <!-- g id="topmost" pointer-events="visible">
+    <image id="lilBat" href="LIL-BAT.png" x="10%" y="7%" width="71%" height="71%"/>
+  </g -->
+    
+  <text id="dayLabel" />
+  <text id="caldayLabel" />
+  <text id="timeLabel" />
+  
+  <text id="stepsLabel" />
+  <text id="stepsStaticLabel">steps</text>
+</svg>

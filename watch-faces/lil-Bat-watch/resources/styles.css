@@ -1,0 +1,63 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 99%;
+  y: 100%-16;
+  fill: white;
+}
+
+#stepsLabel {
+  font-size: 32;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-1;
+  y: 100%-4;
+  fill: whitesmoke;
+}
+
+#stepsStaticLabel {
+  font-size: 24;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: end;
+  x: 100%-1;
+  y: $-64;
+  fill: white;
+}
+
+#dayLabel {
+  font-size: 28;
+  font-family: System-Bold;
+  text-length: 16;
+  text-anchor: start;
+  x: 0%;
+  y: 100%-40;
+  fill: whitesmoke;
+}
+
+#caldayLabel {
+  font-size: 28;
+  font-family: System-Bold;
+  text-length: 16;
+  text-anchor: start;
+  x: $+1;
+  y: 100%-40;
+  fill: whitesmoke;
+}
+
+#timeLabel {
+  font-size: 48;
+  font-family: System-Bold;
+  text-length: 48;
+  text-anchor: start;
+  x: 0%;
+  y: 100%;
+  fill: whitesmoke;
+}
