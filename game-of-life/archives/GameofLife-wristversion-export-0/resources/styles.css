@@ -1,0 +1,18 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.cellz {
+  width: 30;
+  height: 30;
+}
+
+.welcomeText {
+  font-size: 32;
+  font-family: System-Regular;
+  text-length: 32;
+  fill: "fb-white";
+}

@@ -1,0 +1,179 @@
+<svg>
+  <use id="container" href="#panoramaview">
+    <use id="item1" href="#panoramaview-item">      
+      <image id="c-00-00" x="0" y="0" class="cellz" href="on-30.png" />
+      <image id="c-01-00" x="30" y="0" class="cellz" href="on-30.png" />
+      <image id="c-02-00" x="60" y="0" class="cellz" href="on-30.png" />
+      <image id="c-03-00" x="90" y="0" class="cellz" href="on-30.png" />
+      <image id="c-04-00" x="120" y="0" class="cellz" href="on-30.png" />
+      <image id="c-05-00" x="150" y="0" class="cellz" href="on-30.png" />
+      <image id="c-06-00" x="180" y="0" class="cellz" href="on-30.png" />
+      <image id="c-07-00" x="210" y="0" class="cellz" href="on-30.png" />
+      <image id="c-08-00" x="240" y="0" class="cellz" href="on-30.png" />
+      <image id="c-09-00" x="270" y="0" class="cellz" href="on-30.png" />
+
+      <image id="c-00-01" x="0" y="30" class="cellz" href="on-30.png" />
+      <image id="c-01-01" x="30" y="30" class="cellz" href="on-30.png" />
+      <image id="c-02-01" x="60" y="30" class="cellz" href="on-30.png" />
+      <image id="c-03-01" x="90" y="30" class="cellz" href="on-30.png" />
+      <image id="c-04-01" x="120" y="30" class="cellz" href="on-30.png" />
+      <image id="c-05-01" x="150" y="30" class="cellz" href="on-30.png" />
+      <image id="c-06-01" x="180" y="30" class="cellz" href="on-30.png" />
+      <image id="c-07-01" x="210" y="30" class="cellz" href="on-30.png" />
+      <image id="c-08-01" x="240" y="30" class="cellz" href="on-30.png" />
+      <image id="c-09-01" x="270" y="30" class="cellz" href="on-30.png" />
+
+      <image id="c-00-02" x="0%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-01-02" x="10%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-02-02" x="20%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-03-02" x="30%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-04-02" x="40%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-05-02" x="50%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-06-02" x="60%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-07-02" x="70%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-08-02" x="80%" y="20%" class="cellz" href="on-30.png" />
+      <image id="c-09-02" x="90%" y="20%" class="cellz" href="on-30.png" />
+      
+      <image id="c-00-03" x="0%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-01-03" x="10%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-02-03" x="20%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-03-03" x="30%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-04-03" x="40%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-05-03" x="50%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-06-03" x="60%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-07-03" x="70%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-08-03" x="80%" y="30%" class="cellz" href="on-30.png" />
+      <image id="c-09-03" x="90%" y="30%" class="cellz" href="on-30.png" />
+      
+      <image id="c-00-04" x="0%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-01-04" x="10%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-02-04" x="20%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-03-04" x="30%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-04-04" x="40%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-05-04" x="50%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-06-04" x="60%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-07-04" x="70%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-08-04" x="80%" y="40%" class="cellz" href="on-30.png" />
+      <image id="c-09-04" x="90%" y="40%" class="cellz" href="on-30.png" />
+      
+      <image id="c-00-05" x="0%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-01-05" x="10%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-02-05" x="20%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-03-05" x="30%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-04-05" x="40%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-05-05" x="50%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-06-05" x="60%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-07-05" x="70%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-08-05" x="80%" y="50%" width="30" height="30" href="on-30.png" />
+      <image id="c-09-05" x="90%" y="50%" width="30" height="30" href="on-30.png" />
+      
+      <image id="c-00-06" x="0%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-01-06" x="10%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-02-06" x="20%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-03-06" x="30%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-04-06" x="40%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-05-06" x="50%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-06-06" x="60%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-07-06" x="70%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-08-06" x="80%" y="60%" width="30" height="30" href="on-30.png" />
+      <image id="c-09-06" x="90%" y="60%" width="30" height="30" href="on-30.png" />
+      
+      <image id="c-00-07" x="0%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-01-07" x="10%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-02-07" x="20%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-03-07" x="30%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-04-07" x="40%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-05-07" x="50%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-06-07" x="60%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-07-07" x="70%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-08-07" x="80%" y="70%" width="30" height="30" href="on-30.png" />
+      <image id="c-09-07" x="90%" y="70%" width="30" height="30" href="on-30.png" />
+      
+      <image id="c-00-08" x="0%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-01-08" x="10%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-02-08" x="20%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-03-08" x="30%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-04-08" x="40%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-05-08" x="50%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-06-08" x="60%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-07-08" x="70%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-08-08" x="80%" y="80%" width="30" height="30" href="on-30.png" />
+      <image id="c-09-08" x="90%" y="80%" width="30" height="30" href="on-30.png" />
+      
+      <image id="c-00-09" x="0%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-01-09" x="10%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-02-09" x="20%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-03-09" x="30%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-04-09" x="40%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-05-09" x="50%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-06-09" x="60%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-07-09" x="70%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-08-09" x="80%" y="90%" width="30" height="30" href="on-30.png" />
+      <image id="c-09-09" x="90%" y="90%" width="30" height="30" href="on-30.png" />
+      
+      <image id="morecontrast" x="50%-15" y="7" height="15" width="30" href="morecontrast.png" />
+      
+      <textarea id="welcometext" y="65%" x="5%" width="90%" height="40%" fill="fb-cyan" font-family="System-Bold">Swipe left for info.
+        <animate attributeName="x" begin="load+2" from="5%" to="-100%" easing="ease-out" dur="3" final="keep" />
+      </textarea>
+    </use>
+    <use id="item2" href="#panoramaview-item">
+      <use href="#scrollview">
+        <use href="#scrollview-item" height="65%">
+          <rect width="100%" height="100%" fill="green" />
+          <textarea y="5" x="2%" width="95%">This is a simple version of John Conway's Game of Life to carry on your wrist.</textarea>
+        </use>
+        <use href="#scrollview-item" height="215%">
+          <use id="randbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Random" />
+          </use>
+          <use id="twobutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Two Gliders" />
+          </use>
+          <use id="lwssbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="LWSS" />
+          </use>
+          <use id="linebutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Line" />
+          </use>
+          <use id="diagbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Diagonal" />
+          </use>
+          <use id="ringsbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Rings" />
+          </use>
+          <use id="beltbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Belt" />
+          </use>
+          <use id="tbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Small T" />
+          </use>
+          <use id="biggliderbutton" href="#square-button" y="$" fill="fb-green">
+            <set href="#text" attributeName="text-buffer" to="Fail 1443" />
+          </use>
+        </use>
+        <use href="#scrollview-item" height="100%">
+          <rect width="100%" height="100%" fill="green" />
+          <textarea y="5" x="2%" width="95%">The Game of Life is a cellular automata and follows a simple set of rules. Space with 3 neighbors gets a cell, less than 2 or more than 3 means no cell in the next generation.  For more background, google for "conways game of life".</textarea>
+        </use>
+        <use href="#scrollview-item" height="100%">
+          <rect width="100%" height="100%" fill="green" />
+          <textarea y="5" x="2%" width="95%">Like a wristband, this wraps around. Top wraps to bottom, left to right.</textarea>
+        </use>
+        <use href="#scrollview-item" height="100%">
+          <rect width="100%" height="100%" fill="green" />
+          <textarea y="5" x="2%" width="95%">Patterns are pre-defined (except Random), so try them out.</textarea>
+        </use>
+        <use href="#scrollview-item">
+          <rect width="100%" height="100%" fill="green" />
+          <textarea y="5" x="2%" width="95%">In memory of mathematician John Conway, 1937-2020.  Thank you for adding some wonder to learning.</textarea>
+        </use>
+      </use>
+    </use>
+    <use id="pagination-dots" href="#pagination-widget" y="8">
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-highlight-dot" />
+    </use>
+  </use>
+</svg>

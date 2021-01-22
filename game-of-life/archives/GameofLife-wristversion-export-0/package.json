@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "ab05b2c4-dd7f-4232-8311-aa09360c2308",
+    "appType": "app",
+    "appDisplayName": "Conway's Life",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Conway's Life"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
